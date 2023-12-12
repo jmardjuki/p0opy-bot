@@ -29,3 +29,15 @@ $ git clone git@github.com:jmardjuki/p0opy-bot.git
 $ cp config.json.template config.json
 ```
 6. Change the token and application ID field from your bot's [developer portal](https://discord.com/developers/applications) page
+
+
+## Running the app
+### Natively
+```
+$ node index.js
+```
+
+### On Docker
+```
+$ docker compose up --build
+```
