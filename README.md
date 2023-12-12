@@ -1,4 +1,4 @@
-# p0ppy Bot
+# p0opy Bot
 
 Discord bot to keep track of everyone's bowel movement.
 
