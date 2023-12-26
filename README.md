@@ -17,7 +17,7 @@ Some people use it as a diary, to tell the world what they do today.
 
 2. On the Bot tab, turn on Privileged Gateway Intents - Server Members Intent, Message Content Intent.
 
-3. Invite bot to test server using OAuth2
+3. Invite bot to test server using OAuth2 -> URL Generator. 
 
 4. Clone this repo in your local
 ```
@@ -28,7 +28,11 @@ $ git clone git@github.com:jmardjuki/p0opy-bot.git
 ```
 $ cp config.json.template config.json
 ```
-6. Change the token and application ID field from your bot's [developer portal](https://discord.com/developers/applications) page
+6. Change the token and application ID field from your bot's [developer portal](https://discord.com/developers/applications) page.
+7. General Information -> Application ID
+8. Copy this to "clientId" in the config.json
+9. Bot -> Token
+10. Copy this to "token" in the config.json 
 
 
 ## Running the app
