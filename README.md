@@ -17,7 +17,7 @@ Some people use it as a diary, to tell the world what they do today.
 
 2. On the Bot tab, turn on Privileged Gateway Intents - Server Members Intent, Message Content Intent.
 
-3. Invite bot to test server using OAuth2
+3. Invite bot to test server using OAuth2 -> URL Generator. 
 
 4. Clone this repo in your local
 ```
